@@ -18,5 +18,5 @@ class Payment < ActiveRecord::Base
                           description: 'Premium',
                           currency: 'usd'
   end
-  
+
 end
